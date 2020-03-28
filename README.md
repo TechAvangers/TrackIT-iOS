@@ -115,7 +115,7 @@ App user interface follows ``` Human interface guidelines ```
 
 ### Programming language
 
-Whole projects have been written using ```Swift 5```.
+Whole project have been written using ```Swift 5```.
 
 ## Team
 
