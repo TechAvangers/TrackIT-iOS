@@ -123,7 +123,7 @@ Whole project have been written using ```Swift 5```.
 :-------------------------:|:-------------------------:
 [nedimf](https://github.com/nedimf) | [2020Nonprofit](https://github.com/2020Nonprofit)
 
-## Buy us coffe
+## Buy us coffee
 
 We have invested a lot time in building this app and implementing new features to it, so we would really appricate if you would take moment and
 <br><br>
