@@ -126,6 +126,6 @@ Whole projects have been written using ```Swift 5```.
 ## Buy us coffe
 
 We have invested a lot time in building this app and implementing new features to it, so we would really appricate if you would take moment and
-
+<br><br>
 <a href="https://www.buymeacoffee.com/nedimf" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-blue.png" alt="Buy Me A Coffee" width="150" height="30" ></a>
 
