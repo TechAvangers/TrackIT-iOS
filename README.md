@@ -2,6 +2,27 @@ TrackIT
 ---
 Open source native cross-platform mobile application for tracking infections in communities.
 
+<p align = "center">
+
+<img src="https://github.com/TechAvangers/TrackIT-iOS/blob/master/github/1.gif" width="200" height="400" />
+<img src="https://github.com/TechAvangers/TrackIT-iOS/blob/master/github/2.gif" width="200" height="400" />
+
+
+</p>
+
+- [TrackIT](#trackit)
+- [Scenario](#scenario)
+- [Functionalities](#functionalities)
+  * [App functions](#app-functions)
+  * [Scanning for devices](#scanning-for-devices)
+  * [Emitting service](#emitting-service)
+  * [Background syncing](#background-syncing)
+- [Stack used](#stack-used)
+  * [Libraries used:](#libraries-used)
+  * [Programming language](#programming-language)
+- [Team](#team)
+- [Buy us coffe](#buy-us-coffe)
+
 ## Scenario
 
 First of all, we should do at this time is social distancing, but we can't survive without food so we have to expose our selves to some degree to get that groceriess.
@@ -95,3 +116,16 @@ App user interface follows ``` Human interface guidelines ```
 ### Programming language
 
 Whole projects have been written using ```Swift 5```.
+
+## Team
+
+![](https://avatars1.githubusercontent.com/u/24845593?s=150&v=4)    |   ![](https://avatars3.githubusercontent.com/u/55641247?s=150&v=4)
+:-------------------------:|:-------------------------:
+[nedimf](https://github.com/nedimf) | [2020Nonprofit](https://github.com/2020Nonprofit)
+
+## Buy us coffe
+
+We have invested a lot time in building this app and implementing new features to it, so we would really appricate if you would take moment and
+
+<a href="https://www.buymeacoffee.com/nedimf" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-blue.png" alt="Buy Me A Coffee" width="150" height="30" ></a>
+
