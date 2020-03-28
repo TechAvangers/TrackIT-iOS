@@ -27,17 +27,17 @@ Open source native cross-platform mobile application for tracking infections in 
 
 First of all, we should do at this time is social distancing, but we can't survive without food so we have to expose our selves to some degree to get that groceries.
 
-Going to market in these times poses a risk of getting in close contact with someone who can be infected.
-To track proximity connections we can use TrackIT app. When you are grocery shopping app is constantly scanning your environment and stores other devices information to your local database so you don't have to be using data plans. 
+Going to market in these times poses a risk of getting in close contact with someone who could be infected.
+To track proximity connections we can use TrackIT app. When for example you are grocery shopping, app is constantly scanning your environment and storing all scanned devices information. 
 
-Another person uses an android version of TrackIT too, and it's located at the same place as you are.
-Your device is advertising itself the whole time you are scanning so this other user can record your device as well.
+For example,another person uses an android version of TrackIT, and it's located at the same place as you are.
+Your device is advertising itself the whole time you are scanning so theother user can scan your device as well.
 
 After you connect to the internet ( ```keep in mind that app should at least be in the background not closed```) app connects to a server and syncs your stored sessions.
 
 Some days later, you have received notification that is stating that you have been in close proximity with someone who has tested **positive** for COVID-19.
 
-Your direct order is to self-quarantine and reports your symptoms trough your government suggested channel.
+You have been ordered to self-quarantine and report your symptoms trough your government suggested channel.
 
 
 
