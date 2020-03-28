@@ -25,7 +25,7 @@ Open source native cross-platform mobile application for tracking infections in 
 
 ## Scenario
 
-First of all, we should do at this time is social distancing, but we can't survive without food so we have to expose our selves to some degree to get that groceriess.
+First of all, we should do at this time is social distancing, but we can't survive without food so we have to expose our selves to some degree to get that groceries.
 
 Going to market in these times poses a risk of getting in close contact with someone who can be infected.
 To track proximity connections we can use TrackIT app. When you are grocery shopping app is constantly scanning your environment and stores other devices information to your local database so you don't have to be using data plans. 
