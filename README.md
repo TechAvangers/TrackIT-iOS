@@ -60,7 +60,7 @@ App functions are divided into two separate parts:
 
 TrackIT uses Bluetooth to scan your environment. ``` App must be in the foreground for scanning to be effective because of Apple background policy ```.
 
-The app is built to recognize states of Bluetooth state on the device, where most important states are ```.unknown``` ```.on``` ```.off```.
+The app is built to recognize states of Bluetooth on the device, where most important states are ```.unknown``` ```.on``` ```.off```.
 
 App scans and stores every scanned device and prepares it for syncing with a server.
 <br>
