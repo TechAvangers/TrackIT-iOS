@@ -9,7 +9,7 @@ First of all, we should do at this time is social distancing, but we can't survi
 Going to a public place in these times poses a risk of getting in close contact with someone who can be infected.
 To track proximity connections we can use TrackIT app. When you are grocery shopping, turn on the app and it will constantly be scanning your environment and stores other devices information to your local database so you don't have to be using celular data. 
 
-Anyone can use TarckIT including android users.
+Anyone can use TrackIT including android users.
 Your device is advertising itself the whole time you are scanning so this other user can record your device as well.
 
 After you connect to the internet ( ```keep in mind that app should at least be in the background not closed```) app connects to a server and syncs your stored sessions.
