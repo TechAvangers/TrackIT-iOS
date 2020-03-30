@@ -26,8 +26,8 @@ TrackIT mobile app utilizes Bluetooth capability of the device and tracks infect
 <br>
 When application opens the app it utilizes two features simultaneously:
 
-- Creating BLE service and assigning new UUID and saving every service to a local database 
-- Start scanning environment for all Bluetooth devices and saving all their data to a local database
+- Creates a BLE service and assigns a new UUID and saves every service to a local database 
+- Starts scanning the environment for all Bluetooth devices and saves all their data to a local database
 
 ### <b>App functions</b>
 
@@ -95,3 +95,5 @@ App user interface follows ``` Human interface guidelines ```
 ### Programming language
 
 Whole projects have been written using ```Swift 5```.
+
+
