@@ -12,17 +12,17 @@ To track proximity connections we can use TrackIT app. When you are grocery shop
 Anyone can use TrackIT including android users.
 Your device is advertising itself the whole time you are scanning so this other user can record your device as well.
 
-After you connect to the internet ( ```keep in mind that app should at least be in the background not closed```) app connects to a server and syncs your stored sessions.
+After you connect to the internet ( ```keep in mind that app should at least be in the background not closed```) the app connects to a server and syncs your stored sessions.
 
 Some days later, you have received notification that is stating that you have been in close proximity with someone who has tested **positive** for COVID-19.
 
-if you receive such a notification it is a good idea to self-quarantine and report your symptoms trough your government suggested channel.
+If you receive such a notification it is a good idea to self-quarantine and report your symptoms trough your government suggested channel.
 
 
 
 Functionalities
 ---
-TrackIT mobile app utilizes Bluetooth capability of the device and tracks infections in the community. 
+The TrackIT mobile app utilizes Bluetooth capabilities of the device and tracks infections in the community. 
 <br>
 When application opens the app it utilizes two features simultaneously:
 
