@@ -23,6 +23,8 @@ Open source native cross-platform mobile application for tracking infections in 
 - [Team](#team)
 - [Buy us coffe](#buy-us-coffe)
 
+```Certain development in project, reveal that this is not implementable in scale that we hoped, till the further notice, this project is postponed.```
+
 ## Scenario
 
 First of all, we should do at this time is social distancing, but we can't survive without food so we have to expose ourselves to some degree to get groceries among other essentials.
