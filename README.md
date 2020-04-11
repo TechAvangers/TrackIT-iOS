@@ -1,5 +1,7 @@
 TrackIT
 ---
+**Google and Apple decided to make almost the same thing, so this project is archived.**
+
 Open source native cross-platform mobile application for tracking infections in communities.
 
 <p align = "center">
